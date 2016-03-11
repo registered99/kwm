@@ -70,7 +70,7 @@
         - 3: give focus to screen id 2
 
     - cmd+ctrl:
-        - s: set mode of current space to bsp
-        - f: set mode of current space to monocle
+        - a: set mode of current space to bsp
+        - s: set mode of current space to monocle
         - d: set mode of current space to float
         - r: rotate window-tree by 90 degrees
